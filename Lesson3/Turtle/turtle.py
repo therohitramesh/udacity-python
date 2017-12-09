@@ -1,3 +1,4 @@
+#! /usr/bin/python
 import turtle
 
 def draw_square(some_turtle) :
